@@ -6,7 +6,7 @@ public class Renderer {
     // public Rectangle rectangle;
     public Shape shape;
 
-    Renderer(Rectangle shape) {
+    Renderer(Shape shape) {
         this.shape = shape;
     }
 
